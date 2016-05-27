@@ -1,0 +1,22 @@
+1) Need to know how to resolve differences in files before committing
+	-use simple text files as an example
+2) Put a makefile in the top directory to build everything
+3) Put SRC files in separate directories
+4) Unit tests for all SRC files and at least one mock object
+5) IEEE Spikes
+	-max float
+	-decimal places
+	-relative and absolute error
+	-infinity division with itself and zero
+	-unit testing
+	-doxygen
+6) Put stories in the DOC directory
+7) Standards
+	-what is a story?
+	-IEEE info
+		-what every CS major should know
+		-individual complier example
+		-wiki page on solving quadratic equations
+8) Check the args from input
+	-use scanf() to limit characters
+9) Log results

@@ -1,0 +1,1 @@
+See: https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/

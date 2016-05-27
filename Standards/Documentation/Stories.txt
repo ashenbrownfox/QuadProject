@@ -1,0 +1,13 @@
+1) Develop quadratic formula solver in C.
+
+2) Command line program interface.
+
+3) Take three floats from the user; a, b, and c of ax^2 + bx + c.
+
+4) Output flags indicating wheter the equation has single, double, or complex roots.
+
+5) Output the actual roots if the equation has single or double roots.
+
+6) Program to be coded in C and compiled with gcc.
+
+7) Use full precision and accuracy when possible. If not possible output a message as to why.
